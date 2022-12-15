@@ -41,7 +41,7 @@ resources:
 #- argocd/sfg-b2bi-clusterwide.yaml
 #- argocd/pem-b2bi-clusterwide.yaml
 #- argocd/sccm-clusterwide.yaml
-#- argocd/scc-wkc-iis.yaml
+- argocd/scc-wkc-iis.yaml
 #- argocd/norootsquash.yaml
 #- argocd/daemonset-sync-global-pullsecret.yaml
 #- argocd/storage.yaml
