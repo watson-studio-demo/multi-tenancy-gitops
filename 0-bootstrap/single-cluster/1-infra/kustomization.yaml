@@ -31,7 +31,7 @@ resources:
 #- argocd/namespace-ssp.yaml
 #- argocd/namespace-sccm.yaml
 #- argocd/serviceaccounts-ibm-common-services.yaml
-#- argocd/serviceaccounts-tools.yaml
+- argocd/serviceaccounts-tools.yaml
 #- argocd/serviceaccounts-db2.yaml
 #- argocd/serviceaccounts-mq.yaml
 #- argocd/serviceaccounts-b2bi-prod.yaml
